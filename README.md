@@ -1,4 +1,4 @@
-Greetings. This repository contains materials for **MTH 210, Communicating in Mathematics**. This is a transition-to-proof course taught at [Grand Valley State University](http://gvsu.edu). The materials here are from the Fall 2012 offering of the course taught by me ([Robert Talbert](http://faculty.gvsu.edu)) using the inverted or "flipped" class design. 
+Greetings. This repository contains materials for **MA 215, Communicating in Mathematics**. This is a transition-to-proof course taught at [Grand Valley State University](http://gvsu.edu). The materials here are from the Fall 2012 offering of the course taught by me ([Robert Talbert](http://faculty.gvsu.edu)) using the inverted or "flipped" class design. 
 
 Here's what's in this repository: 
 
